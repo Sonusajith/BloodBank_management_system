@@ -86,10 +86,10 @@ http://127.0.0.1:8000/admin/
 
 ## 📸 Screenshots
 
-(Add screenshots of:)
-- Home Page![HomePage](https://github.com/user-attachments/assets/76672f77-b55b-4a06-82b1-ad2d9dbe6aa1)
 
-- 
+- Home Page ![HomePage](https://github.com/user-attachments/assets/76672f77-b55b-4a06-82b1-ad2d9dbe6aa1)
+
+  
 - Donor Page  ![Donor](https://github.com/user-attachments/assets/475977a6-32cd-462c-bf1e-d7e9ad14e123)
 
 - Admin Dashboard  ![AdminPanel](https://github.com/user-attachments/assets/c289b778-c854-4511-ba2a-3c0c10f2d777)![AdmibPanel1](https://github.com/user-attachments/assets/e8f6c5be-2025-4b84-a853-caf89e9de7c2)
