@@ -87,10 +87,17 @@ http://127.0.0.1:8000/admin/
 ## 📸 Screenshots
 
 (Add screenshots of:)
-- Home Page  
-- Donor Page  
-- Admin Dashboard  
-- Blood Stock Page  
+- Home Page![HomePage](https://github.com/user-attachments/assets/76672f77-b55b-4a06-82b1-ad2d9dbe6aa1)
+
+- 
+- Donor Page  ![Donor](https://github.com/user-attachments/assets/475977a6-32cd-462c-bf1e-d7e9ad14e123)
+
+- Admin Dashboard  ![AdminPanel](https://github.com/user-attachments/assets/c289b778-c854-4511-ba2a-3c0c10f2d777)![AdmibPanel1](https://github.com/user-attachments/assets/e8f6c5be-2025-4b84-a853-caf89e9de7c2)
+
+
+- Blood Stock Page  ![1000134297](https://github.com/user-attachments/assets/c3457640-c38f-40aa-8a11-95a719d777c7)
+
+![LogOut](https://github.com/user-attachments/assets/22e93bc1-b9c2-4cc9-b614-236d9b9fc879)
 
 ---
 
